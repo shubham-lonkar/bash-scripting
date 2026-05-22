@@ -8,20 +8,6 @@ This document contains links and code snippets for the LinkedIn Learning course 
 
 Download the files used in this course from [github.com/scottsimpson/learning-bash-scripting](https://github.com/scottsimpson/learning-bash-scripting).
 
-### Related LinkedIn Learning courses
-
-[Learning VirtualBox](https://www.linkedin.com/learning/learning-virtualbox-19862434)
-
-[Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912)
-
-[Learning Windows Subsystem for Linux](https://www.linkedin.com/learning/learning-windows-subsystem-for-linux-16134127)
-
-### GitHub Codespaces information
-
-Learn more about [GitHub Codespaces](https://github.com/features/codespaces).
-
-Learn more about [billing and usage](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces) for GitHub Codespaces.
-
 ## Commands used in the course
 
 ### 01_01 What's Bash?
