@@ -43,6 +43,8 @@ multiline
 text string
 EndOfText
 ```
+- '1> output.txt' means send stdout to output.txt
+- '2> error.txt' means send stderr to error.txt
 
 ### 01_03 Bash builtins and other commands
 
